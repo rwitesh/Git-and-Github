@@ -15,7 +15,7 @@ git --version
 ### Configure Git with Github 
 **Add GitHub username and email**
 ```
-git config --global user.name "rwiteshbera"
+git config --global user.name "rwitesh"
 git config --global user.email "rwiteshbera@gmail.com"
 ```
 
